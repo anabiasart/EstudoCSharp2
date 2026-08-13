@@ -1,0 +1,14 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\bin\Debug\net10.0\proximo50.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\bin\Debug\net10.0\proximo50.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\bin\Debug\net10.0\proximo50.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\bin\Debug\net10.0\proximo50.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\bin\Debug\net10.0\proximo50.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\obj\Debug\net10.0\proximo50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\obj\Debug\net10.0\proximo50.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\obj\Debug\net10.0\proximo50.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\obj\Debug\net10.0\proximo50.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\obj\Debug\net10.0\proximo50.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\obj\Debug\net10.0\refint\proximo50.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\obj\Debug\net10.0\proximo50.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\obj\Debug\net10.0\proximo50.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\proximo50\obj\Debug\net10.0\ref\proximo50.dll
