@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\bin\Debug\net10.0\diferenca21.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\bin\Debug\net10.0\diferenca21.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\bin\Debug\net10.0\diferenca21.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\bin\Debug\net10.0\diferenca21.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\bin\Debug\net10.0\diferenca21.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\obj\Debug\net10.0\diferenca21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\obj\Debug\net10.0\diferenca21.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\obj\Debug\net10.0\diferenca21.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\obj\Debug\net10.0\diferenca21.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\obj\Debug\net10.0\diferenca21.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\obj\Debug\net10.0\diferenca21.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\obj\Debug\net10.0\refint\diferenca21.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\obj\Debug\net10.0\diferenca21.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\obj\Debug\net10.0\diferenca21.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\diferenca21\obj\Debug\net10.0\ref\diferenca21.dll
