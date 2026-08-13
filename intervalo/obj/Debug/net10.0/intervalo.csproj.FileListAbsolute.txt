@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\bin\Debug\net10.0\intervalo.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\bin\Debug\net10.0\intervalo.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\bin\Debug\net10.0\intervalo.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\bin\Debug\net10.0\intervalo.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\bin\Debug\net10.0\intervalo.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\obj\Debug\net10.0\intervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\obj\Debug\net10.0\intervalo.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\obj\Debug\net10.0\intervalo.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\obj\Debug\net10.0\intervalo.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\obj\Debug\net10.0\intervalo.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\obj\Debug\net10.0\intervalo.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\obj\Debug\net10.0\refint\intervalo.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\obj\Debug\net10.0\intervalo.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\obj\Debug\net10.0\intervalo.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\intervalo\obj\Debug\net10.0\ref\intervalo.dll
