@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("diferenca21")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9429f27c1d75f8071486519e3c4844ee87f0d602")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4fd486a1df3d77850075745f2913720acc78521")]
 [assembly: System.Reflection.AssemblyProductAttribute("diferenca21")]
 [assembly: System.Reflection.AssemblyTitleAttribute("diferenca21")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

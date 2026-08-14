@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("proximo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4fd486a1df3d77850075745f2913720acc78521")]
 [assembly: System.Reflection.AssemblyProductAttribute("proximo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("proximo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

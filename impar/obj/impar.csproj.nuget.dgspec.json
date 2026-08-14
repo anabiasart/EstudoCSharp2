@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\diferenca21\\diferenca21.csproj": {}
+    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\impar\\impar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\diferenca21\\diferenca21.csproj": {
+    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\impar\\impar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\diferenca21\\diferenca21.csproj",
-        "projectName": "diferenca21",
-        "projectPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\diferenca21\\diferenca21.csproj",
+        "projectUniqueName": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\impar\\impar.csproj",
+        "projectName": "impar",
+        "projectPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\impar\\impar.csproj",
         "packagesPath": "C:\\Users\\wconect-financeiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\diferenca21\\obj\\",
+        "outputPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\impar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wconect-financeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"

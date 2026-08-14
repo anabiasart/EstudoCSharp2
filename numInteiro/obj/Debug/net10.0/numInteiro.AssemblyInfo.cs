@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("numInteiro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cd48a6efb4c2e8c01dfa4e229644b6f9f538496")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4fd486a1df3d77850075745f2913720acc78521")]
 [assembly: System.Reflection.AssemblyProductAttribute("numInteiro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("numInteiro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

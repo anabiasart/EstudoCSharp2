@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\proximo50\\proximo50.csproj": {}
+    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\proximo50\\proximo50.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\proximo50\\proximo50.csproj": {
+    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\proximo50\\proximo50.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\proximo50\\proximo50.csproj",
+        "projectUniqueName": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\proximo50\\proximo50.csproj",
         "projectName": "proximo50",
-        "projectPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\proximo50\\proximo50.csproj",
+        "projectPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\proximo50\\proximo50.csproj",
         "packagesPath": "C:\\Users\\wconect-financeiro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\proximo50\\obj\\",
+        "outputPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\proximo50\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wconect-financeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
