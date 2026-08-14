@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Runtime.InteropServices;
 
 namespace calculator
 {
@@ -9,10 +8,10 @@ namespace calculator
         {
         
             Console.WriteLine("Digte o primeiro numero:");
-          double num1 = Convert.ToInt32(Console.ReadLine());
+          double num1 = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Digte o segundo numero:");
-           double num2 = Convert.ToInt32(Console.ReadLine());
+           double num2 = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("1-Somar");
             Console.Write("2-Subtrair ");
