@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\bin\Debug\net10.0\Aluno.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\bin\Debug\net10.0\Aluno.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\bin\Debug\net10.0\Aluno.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\bin\Debug\net10.0\Aluno.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\bin\Debug\net10.0\Aluno.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\obj\Debug\net10.0\Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\obj\Debug\net10.0\Aluno.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\obj\Debug\net10.0\Aluno.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\obj\Debug\net10.0\Aluno.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\obj\Debug\net10.0\Aluno.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\obj\Debug\net10.0\Aluno.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\obj\Debug\net10.0\refint\Aluno.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\obj\Debug\net10.0\Aluno.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\obj\Debug\net10.0\Aluno.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\Aluno\obj\Debug\net10.0\ref\Aluno.dll
