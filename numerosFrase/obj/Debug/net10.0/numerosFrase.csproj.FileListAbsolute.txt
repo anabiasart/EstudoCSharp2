@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\bin\Debug\net10.0\numerosFrase.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\bin\Debug\net10.0\numerosFrase.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\bin\Debug\net10.0\numerosFrase.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\bin\Debug\net10.0\numerosFrase.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\bin\Debug\net10.0\numerosFrase.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\obj\Debug\net10.0\numerosFrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\obj\Debug\net10.0\numerosFrase.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\obj\Debug\net10.0\numerosFrase.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\obj\Debug\net10.0\numerosFrase.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\obj\Debug\net10.0\numerosFrase.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\obj\Debug\net10.0\numerosFrase.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\obj\Debug\net10.0\refint\numerosFrase.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\obj\Debug\net10.0\numerosFrase.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\obj\Debug\net10.0\numerosFrase.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\numerosFrase\obj\Debug\net10.0\ref\numerosFrase.dll

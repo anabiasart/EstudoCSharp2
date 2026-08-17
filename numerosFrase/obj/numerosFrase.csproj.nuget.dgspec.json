@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\conta\\conta.csproj": {}
+    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\numerosFrase\\numerosFrase.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\conta\\conta.csproj": {
+    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\numerosFrase\\numerosFrase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\conta\\conta.csproj",
-        "projectName": "conta",
-        "projectPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\conta\\conta.csproj",
+        "projectUniqueName": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\numerosFrase\\numerosFrase.csproj",
+        "projectName": "numerosFrase",
+        "projectPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\numerosFrase\\numerosFrase.csproj",
         "packagesPath": "C:\\Users\\wconect-financeiro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\conta\\obj\\",
+        "outputPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\numerosFrase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wconect-financeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
