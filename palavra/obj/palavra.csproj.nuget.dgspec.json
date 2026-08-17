@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\maior\\maior.csproj": {}
+    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\palavra\\palavra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\maior\\maior.csproj": {
+    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\palavra\\palavra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\maior\\maior.csproj",
-        "projectName": "maior",
-        "projectPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\maior\\maior.csproj",
+        "projectUniqueName": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\palavra\\palavra.csproj",
+        "projectName": "palavra",
+        "projectPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\palavra\\palavra.csproj",
         "packagesPath": "C:\\Users\\wconect-financeiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\maior\\obj\\",
+        "outputPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\palavra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wconect-financeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"

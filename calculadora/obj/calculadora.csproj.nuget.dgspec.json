@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\calculadora\\calculadora.csproj": {}
+    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\calculadora\\calculadora.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\calculadora\\calculadora.csproj": {
+    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\calculadora\\calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\calculadora\\calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\calculadora\\calculadora.csproj",
         "projectName": "calculadora",
-        "projectPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\calculadora\\calculadora.csproj",
+        "projectPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\calculadora\\calculadora.csproj",
         "packagesPath": "C:\\Users\\wconect-financeiro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\calculadora\\obj\\",
+        "outputPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\C#2\\exercicios\\calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wconect-financeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
