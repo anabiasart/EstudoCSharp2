@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\bin\Debug\net10.0\acumulador2.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\bin\Debug\net10.0\acumulador2.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\bin\Debug\net10.0\acumulador2.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\bin\Debug\net10.0\acumulador2.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\bin\Debug\net10.0\acumulador2.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\obj\Debug\net10.0\acumulador2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\obj\Debug\net10.0\acumulador2.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\obj\Debug\net10.0\acumulador2.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\obj\Debug\net10.0\acumulador2.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\obj\Debug\net10.0\acumulador2.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\obj\Debug\net10.0\acumulador2.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\obj\Debug\net10.0\refint\acumulador2.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\obj\Debug\net10.0\acumulador2.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\obj\Debug\net10.0\acumulador2.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\acumulador2\obj\Debug\net10.0\ref\acumulador2.dll
