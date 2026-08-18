@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\bin\Debug\net10.0\par.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\bin\Debug\net10.0\par.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\bin\Debug\net10.0\par.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\bin\Debug\net10.0\par.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\bin\Debug\net10.0\par.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\obj\Debug\net10.0\par.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\obj\Debug\net10.0\par.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\obj\Debug\net10.0\par.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\obj\Debug\net10.0\par.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\obj\Debug\net10.0\par.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\obj\Debug\net10.0\par.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\obj\Debug\net10.0\refint\par.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\obj\Debug\net10.0\par.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\obj\Debug\net10.0\par.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\exercicio2\par\obj\Debug\net10.0\ref\par.dll
