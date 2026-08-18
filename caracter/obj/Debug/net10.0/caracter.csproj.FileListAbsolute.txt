@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\bin\Debug\net10.0\caracter.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\bin\Debug\net10.0\caracter.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\bin\Debug\net10.0\caracter.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\bin\Debug\net10.0\caracter.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\bin\Debug\net10.0\caracter.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\obj\Debug\net10.0\caracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\obj\Debug\net10.0\caracter.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\obj\Debug\net10.0\caracter.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\obj\Debug\net10.0\caracter.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\obj\Debug\net10.0\caracter.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\obj\Debug\net10.0\caracter.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\obj\Debug\net10.0\refint\caracter.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\obj\Debug\net10.0\caracter.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\obj\Debug\net10.0\caracter.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\caracter\obj\Debug\net10.0\ref\caracter.dll

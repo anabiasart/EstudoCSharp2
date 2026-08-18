@@ -18,7 +18,7 @@ class Program
 
             if (char.IsDigit(caractere))
             {
-                contador++;
+                contador++; //quantos existem
             }
         }
          Console.WriteLine("quantidade de numeros: "+ contador);
