@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maiorEmenor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dac86481c0f5ca2772b6bab2a02adaea7ac336a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ddac721be5886b0eec90a5a1123ed044ef73404")]
 [assembly: System.Reflection.AssemblyProductAttribute("maiorEmenor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maiorEmenor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

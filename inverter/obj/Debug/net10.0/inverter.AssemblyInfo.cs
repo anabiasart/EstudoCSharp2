@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("inverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10201a913abc57d261887020a3201c202b6f1117")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ddac721be5886b0eec90a5a1123ed044ef73404")]
 [assembly: System.Reflection.AssemblyProductAttribute("inverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("inverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
