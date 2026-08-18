@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\bin\Debug\net10.0\maiorEmenor.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\bin\Debug\net10.0\maiorEmenor.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\bin\Debug\net10.0\maiorEmenor.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\bin\Debug\net10.0\maiorEmenor.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\bin\Debug\net10.0\maiorEmenor.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\obj\Debug\net10.0\maiorEmenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\obj\Debug\net10.0\maiorEmenor.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\obj\Debug\net10.0\maiorEmenor.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\obj\Debug\net10.0\maiorEmenor.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\obj\Debug\net10.0\maiorEmenor.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\obj\Debug\net10.0\maiorEmenor.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\obj\Debug\net10.0\refint\maiorEmenor.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\obj\Debug\net10.0\maiorEmenor.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\obj\Debug\net10.0\maiorEmenor.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\C#2\exercicios\maiorEmenor\obj\Debug\net10.0\ref\maiorEmenor.dll
