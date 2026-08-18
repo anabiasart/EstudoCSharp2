@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Digite uma palavra ou uma frase: ");
+       Console.WriteLine("Digite uma palavra ou uma frase: ");
        string palavra = Console.ReadLine();
 
 string vogais = "aeiou";

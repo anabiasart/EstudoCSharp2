@@ -23,4 +23,4 @@ class Program
         }
          Console.WriteLine("quantidade de numeros: "+ contador);
     }
-}
+}     

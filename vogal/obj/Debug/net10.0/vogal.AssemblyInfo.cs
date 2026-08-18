@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vogal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d88394098d8e42a17caa229ab02030398acefa0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ae2ff7a44431a1e3b9648dae18e262009686b1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("vogal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vogal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
