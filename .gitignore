@@ -1,0 +1,38 @@
+# Arquivos gerados pelo .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Build
+Debug/
+Release/
+x64/
+x86/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+packages/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
