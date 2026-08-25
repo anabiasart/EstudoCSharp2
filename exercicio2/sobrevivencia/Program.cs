@@ -44,7 +44,7 @@ if (opcao < 1 || opcao > 4)
                     Console.WriteLine("Encontrou comida: " + quantidade);
                 }
                else if(evento == 2)
-               {
+        {
                     int quantidade = random.Next(1, 4);
                     agua += quantidade;
 
@@ -179,9 +179,5 @@ if (opcao < 1 || opcao > 4)
                         vivo = false;
                     }
         }
-
-
-        
-   
     }
 }
