@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Threading;
 class Program
 {
     static void Main()
@@ -15,7 +15,43 @@ class Program
         Random random = new Random();
 
         bool sorteio = true;
+Console.ForegroundColor = ConsoleColor.Green;
 
+        Console.WriteLine("=== PREDATOR VISOR ===");
+        Console.WriteLine();
+        Console.Write("SCANNING ");
+
+        for (int i = 0; i < 10; i++)
+        {
+            Console.Write("█");
+            Thread.Sleep(80);
+        }
+
+        Console.WriteLine();
+        Console.WriteLine("ASSINATURA TÉRMICA DETECTADA");
+
+        Console.ResetColor();
+
+        string[] mira =
+{
+    "[      +      ]",
+    "[    < + >    ]",
+    "[   << + >>   ]",
+    "[     [+]     ]"
+};
+
+for (int i = 0; i < mira.Length; i++)
+{
+    Console.Clear();
+
+    Console.ForegroundColor = ConsoleColor.Green;
+
+    Console.WriteLine("VISOR ATIVO");
+    Console.WriteLine();
+    Console.WriteLine(mira[i]);
+
+    Thread.Sleep(150);
+}
         while (sorteio)
         {
             int indice = random.Next(0, nomes.Length);
@@ -67,9 +103,12 @@ class Program
                     Console.WriteLine("Dados suficientes para iniciar a caçada.");
                     sorteio = false;
                 }
-int[] prioridade = new int[5];
+        }
+        
+        int[] prioridade = new int[5];
 int maiorPrioridade = int.MinValue;
 int indiceMaisPerigoso = -1;
+                
                 for (int i = 0; i < nomes.Length; i++)
 {
     if (detectado[i] == true)
@@ -90,9 +129,10 @@ int indiceMaisPerigoso = -1;
             prioridade[i] += 2;
         }
     }
-}
 
-            for (int i = 0; i < prioridade.Length; i++)
+}
+    
+      for (int i = 0; i < prioridade.Length; i++)
             {
                 if (detectado[i] == true && prioridade[i] > maiorPrioridade)
                 {
@@ -108,11 +148,43 @@ int indiceMaisPerigoso = -1;
 
             Console.WriteLine(
                 "Prioridade: " + maiorPrioridade);
-                    }
-                    
-                     Console.WriteLine("Alvos identificados");
-                     
+                    Console.WriteLine("===== ALVOS IDENTIFICADOS =====");
 
-                }
+                    int[] indicesDetectados = new int[5];
+                    int quantidadeOpcoes = 0;
+                        for (int i = 0; i < nomes.Length; i++)
+                    {
+                        if (detectado[i] == true)
+                        {
+                            indicesDetectados[quantidadeOpcoes] = i;
+
+                            Console.WriteLine(
+                                "[" + (quantidadeOpcoes + 1) + "] " + nomes[i]
+                            );
+
+                            quantidadeOpcoes++;
+                        }
+                    }                
+                                        Console.WriteLine("Escolha sua presa:");
+                                        int escolha = Convert.ToInt32(Console.ReadLine());
+                                        if (escolha < 1 || escolha > quantidadeOpcoes)
+                                        {
+                                            Console.WriteLine("Alvo inválido.");
+                                        }
+                                         int indiceEscolhido = indicesDetectados[escolha - 1];
+                                        Console.WriteLine("Presa escolhida: " + nomes[indiceEscolhido]);
+
+                                        if (indiceEscolhido == indiceMaisPerigoso)
+                                        {
+                                            Console.WriteLine("ALVO TÁTICO CONFIRMADO.");
+                                        }
+                                        else
+                                        {
+                                            Console.WriteLine("DECISÃO CONTRÁRIA À ANÁLISE DO VISOR.");
+                                        }
+    }
+   
+                
+        
        
 }
